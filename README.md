@@ -1,22 +1,10 @@
-# co5234b37b1baa0ba8b5b7835
+Color Scheme Generator is a solo project from the Frontend Developer Career Path of Scrimba (https://scrimba.com/learn/frontend)
 
-Quick start:
+<img width="754" alt="Color Scheme screen shot" src="https://user-images.githubusercontent.com/73802863/211450772-70520b13-4dfe-482b-95ce-6a5407bb339f.png">
 
-```
-$ npm install
-$ npm start
-````
+This project is based done using 
+- Javascript Vanilla
+- the API: https://www.thecolorapi.com
+- Display: grid in CSS
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
-# color_scheme
+It really feels good to finish a project by myself :)
