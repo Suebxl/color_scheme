@@ -16,10 +16,11 @@ function getSchemeColors(){
   .then((data) => {
 
     data.colors.forEach(color => {
+      const val = color.hex.value
       html += `
       <div>
-        <p class="color" style="background: ${color.hex.value}"> </p>
-        <p class="color-hex" onclick="copyColor('${color.hex.value}')"> ${color.hex.value} </p>
+        <p class="color" style="background: ${val}"> </p>
+        <p class="color-hex" onclick="copyColor('${val}')"> ${val} </p>
       </div>
       `
     })
